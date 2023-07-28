@@ -1,7 +1,7 @@
-- Olá,meu nome é Eduardo 👋
+- OLÁ, SEJA BEM VINDO AO MEU GITHUB!👋
 - DESENVOLVEDOR GENEXUS
-- 👨‍💻 Desenvolvedor apaixonado por tecnologia
-- 🔧 Habilidades: PYTHON, HTML/CSS, MYSQL, GENEXUS
+- APAIXONADO POR TECNOLOGIAS 👨‍💻
+- ALGUMAS HABILIDADES🔧: PYTHON, HTML/CSS, MYSQL, GENEXUS
   
 
 
